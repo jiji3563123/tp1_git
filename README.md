@@ -1,3 +1,1 @@
-# Hello Git - Enigma
-
-Objects done
+# Git - Enigma
